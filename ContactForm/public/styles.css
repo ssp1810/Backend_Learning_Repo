@@ -48,3 +48,9 @@ button{
       cursor: pointer;
       padding: 1rem 2rem;
 }
+
+.error{
+      color: red;
+      font-size: 1rem;
+      text-align: right;
+}
